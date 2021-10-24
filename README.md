@@ -28,10 +28,10 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/typescript/typescript.png"></code>
 -->
 
-| <a href="https://github.com/MonsterXiong/blog"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MonsterXiong&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MonsterXiong's github stats" /></a> | <a href="https://github.com/MonsterXiong/blog"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterXiong&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/MonsterXiong"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MonsterXiong&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MonsterXiong's github stats" /></a> | <a href="https://github.com/MonsterXiong"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterXiong&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterXiong&layout=compact)](https://github.com/MonsterXiong)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterXiong&layout=compact)](https://github.com/MonsterXiong) -->
 
 
 
