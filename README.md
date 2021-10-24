@@ -12,7 +12,7 @@
 
 - 👋 Welcome to MonsterXiong's github
 
-- 💼 FrontEnd Engineer at lalababy
+- 💼 FrontEnd Engineer
 
 - ❤️ I love writing Note, and building fun experiments on Application
 
