@@ -1,7 +1,9 @@
 ### Welcome to Monster 👋
 
 🔭 I’m currently working on lalababy
+
 🌱 I’m currently learning react
+
 📫 How to reach me: 942849672@qq.com
 
 <p align="center"> 
