@@ -5,19 +5,21 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from China
+> I'm a self-taught passionate FrontEnd developer from China
 
 **About me**
 
 
-👋 Welcome to MonsterXiong's github stats
+- 👋 Welcome to MonsterXiong's github
 
-🔭 FrontEnd Engineer at lalababy
+- 💼 FrontEnd Engineer at lalababy
 
-💬 Ask me about anything [here](https://github.com/MonsterXiong/MonsterXiong/issues)
+- ❤️ I love writing Note, and building fun experiments on Application
+
+- 💬 Ask me about anything [here](https://github.com/MonsterXiong/MonsterXiong/issues)
 
 
-**Languages and Tools:** 
+**Languages and Tools** 
 
 <a href="#">
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -32,20 +34,23 @@ I'm a self-taught passionate FrontEnd developer from China
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code> 
 </a>
 
-<!-- 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/koa/koa.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>  
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/typescript/typescript.png"></code>
--->
-
 | <a href="https://github.com/MonsterXiong"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MonsterXiong&show_icons=true&include_all_commits=true&theme=dracula&count_private=true&hide=contribs,prs" alt="MonsterXiong's github stats" /></a> | <a href="https://github.com/MonsterXiong"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterXiong&layout=compact&theme=dracula&hide=shell" /></a> |
 | ------------- | ------------- |
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterXiong&layout=compact)](https://github.com/MonsterXiong) -->
 
+**Project** 
+
+- [📈 blog](https://blog.monsterbear.top/)
+
+- [🤔 Node-Blog](https://monsterxiong.github.io/Node/)
+
+- [⚡ Notion and Message](https://mynotion-ten.vercel.app/)
+
+
+
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterXiong&layout=compact)](https://github.com/MonsterXiong) -->
 
 
 <!--
