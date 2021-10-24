@@ -3,13 +3,13 @@
   <img src="https://profile-counter.glitch.me/MonsterXiong/count.svg" />
 </p>
 
-👋 Welcome to Monster's github
+👋 Welcome to MonsterXiong's github stats
 
-🔭 I’m currently working on lalababy
-
-🌱 I’m currently learning react
+🔭 FrontEnd Engineer at lalababy
 
 📫 How to reach me: 942849672@qq.com
+
+💬 Ask me about anything [here](https://github.com/MonsterXiong/MonsterXiong/issues)
 
 
 **Languages and Tools:** 
