@@ -3,6 +3,13 @@
   <img src="https://profile-counter.glitch.me/MonsterXiong/count.svg" />
 </p>
 
+<br />
+
+I'm a self-taught passionate FrontEnd developer from China
+
+**About me**
+
+
 👋 Welcome to MonsterXiong's github stats
 
 🔭 FrontEnd Engineer at lalababy
@@ -34,7 +41,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/typescript/typescript.png"></code>
 -->
 
-| <a href="https://github.com/MonsterXiong"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MonsterXiong&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false&count_private=true&hide=contribs,prs" alt="MonsterXiong's github stats" /></a> | <a href="https://github.com/MonsterXiong"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterXiong&layout=compact&theme=dracula&hide_border=false&hide=shell" /></a> |
+| <a href="https://github.com/MonsterXiong"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MonsterXiong&show_icons=true&include_all_commits=true&theme=dracula&count_private=true&hide=contribs,prs" alt="MonsterXiong's github stats" /></a> | <a href="https://github.com/MonsterXiong"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterXiong&layout=compact&theme=dracula&hide=shell" /></a> |
 | ------------- | ------------- |
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterXiong&layout=compact)](https://github.com/MonsterXiong) -->
