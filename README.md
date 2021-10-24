@@ -1,4 +1,9 @@
-### Welcome to Monster 👋
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/MonsterXiong/count.svg" />
+</p>
+
+👋 Welcome to Monster's github
 
 🔭 I’m currently working on lalababy
 
@@ -6,10 +11,6 @@
 
 📫 How to reach me: 942849672@qq.com
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/MonsterXiong/count.svg" />
-</p>
 
 **Languages and Tools:** 
 
