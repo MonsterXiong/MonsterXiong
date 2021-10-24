@@ -32,7 +32,7 @@
 
 **Project** 
 
-- [📈 blog](https://blog.monsterbear.top/)
+- [📈 Blog](https://blog.monsterbear.top/)
 
 - [🤔 Node-Blog](https://monsterxiong.github.io/Node/)
 
