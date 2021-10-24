@@ -28,9 +28,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/typescript/typescript.png"></code>
 -->
 
-<a href="https://github.com/MonsterXiong/blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MonsterXiong&repo=blog&theme=buefy" />
-</a>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterXiong&layout=compact)](https://github.com/MonsterXiong)
 
