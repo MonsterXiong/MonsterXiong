@@ -40,7 +40,7 @@
 
 - [🔧 Tool-Docs](https://monsterxiong.github.io/Tool-Docs/)
 
-- [🖊 Notion and Message](https://mynotion-ten.vercel.app/)
+- [🖊 留言板](https://message-board-smoky.vercel.app/)
 
 - [🎸 网易云音乐API](http://120.53.225.190:8888/)
 
