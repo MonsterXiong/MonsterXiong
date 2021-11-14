@@ -26,7 +26,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code> 
 
-| <a href="https://github.com/MonsterXiong"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MonsterXiong&show_icons=true&hide_border=true&include_all_commits=true&theme=dracula&count_private=true&hide=contribs,prs" alt="MonsterXiong's github stats" /></a> | <a href="https://github.com/MonsterXiong"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterXiong&layout=compact&hide_border=true&theme=dracula&hide=shell" /></a> |
+| <a href="https://github.com/MonsterXiong"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MonsterXiong&show_icons=true&hide_border=true&include_all_commits=true&theme=dracula&count_private=true" alt="MonsterXiong's github stats" /></a> | <a href="https://github.com/MonsterXiong"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterXiong&layout=compact&hide_border=true&theme=dracula&hide=shell" /></a> |
 | ------------- | ------------- |
 
 
