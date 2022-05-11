@@ -1,11 +1,8 @@
-<p align="center"> 
-<!--   Visitor count<br> -->
-  <img src="https://profile-counter.glitch.me/MonsterXiong/count.svg" />
-</p>
+
 
 <br />
 
-> **I'm a self-taught passionate FrontEnd developer from China**
+<!-- > **I'm a self-taught passionate FrontEnd developer from China** -->
 
 **About me**
 
@@ -65,3 +62,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center"> 
+<!--   Visitor count<br> -->
+  <img src="https://profile-counter.glitch.me/MonsterXiong/count.svg" />
+</p>
