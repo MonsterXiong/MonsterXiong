@@ -1,11 +1,4 @@
-
-
-<br />
-
-<!-- > **I'm a self-taught passionate FrontEnd developer from China** -->
-
 **About me**
-
 
 - 👋 Welcome to MonsterXiong's github
 
@@ -68,3 +61,5 @@ Here are some ideas to get you started:
 <!--   Visitor count<br> -->
   <img src="https://profile-counter.glitch.me/MonsterXiong/count.svg" />
 </p>
+
+<!-- <br /> -->
